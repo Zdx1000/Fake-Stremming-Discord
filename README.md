@@ -1,2 +1,2 @@
 # Fake-Stremming-Discord
-Um fake stremming para discord
+Um fake streaming para discord
